@@ -1,0 +1,77 @@
+[{
+  "Nom": "Forxiga 10mg : comprimé",
+  "Caractéristique ": "Antidiabétique oral",
+  "Ordonnance ": true
+},{
+  "Nom": "Spasfon : comprimé",
+  "Caractéristique ": "Antispasmodique",
+  "Ordonnance ": false
+},{
+  "Nom": "Celestene : suspension injectable",
+  "Caractéristique ": "Anti-inflamatoire",
+  "Ordonnance ": true
+},{
+  "Nom": "Doliprane, formes pédiatriques : solution buvable",
+  "Caractéristique ": "Antalgique et antipyrétique",
+  "Ordonnance ": false
+},{
+  "Nom": "Solupred 5mg : comprimé",
+  "Caractéristique ": "Anti-inflamatoire",
+  "Ordonnance ": false
+},{
+  "Nom": "Fucidine 250mg : comprimé",
+  "Caractéristique ": "Antibiotique",
+  "Ordonnance ": true
+},{
+ "Nom": "Pyostacine 500 mg : comprimé ",
+  "Caractéristique ": "Antibiotique",
+  "Ordonnance ": true
+},{
+ "Nom": "Augmentin 100mg : comprimé",
+  "Caractéristique ": "Antibiotique",
+  "Ordonnance ": true
+},{
+  "Nom": "Seresta 10mg : comprimé",
+  "Caractéristique ": "Anxiolytique",
+  "Ordonnance ": true
+},{
+  "Nom": "Acupan : suspension injectable",
+  "Caractéristique ": "Antalgique",
+  "Ordonnance ": true
+},{
+  "Nom": "Aspirine Upsa 100mg : comprimé",
+  "Caractéristique ": "Antalgique et antipyrétique",
+  "Ordonnance ": false
+},{
+ "Nom": "Nurofen 400mg : comprimé",
+  "Caractéristique ": "Antalgique et antipyrétique",
+  "Ordonnance ": false
+},{
+  "Nom": "Vogalib : comprimé",
+  "Caractéristique ": "Antiémétique",
+  "Ordonnance ": false
+},{
+ "Nom": "Clamoxyl : 1g : comprimé",
+  "Caractéristique ": "Antibiotique",
+  "Ordonnance ": true
+},{
+  "Nom": "Toplexil : solution buvable",
+  "Caractéristique ": "Antitussif",
+  "Ordonnance ": false
+},{
+  "Nom": "Ventoline : solution injectable",
+  "Caractéristique ": "Asthme",
+  "Ordonnance ": true
+},{
+ "Nom": "Aerius : 5mg : comprimé",
+  "Caractéristique ": "Antiallergique",
+  "Ordonnance ": true
+},{
+  "Nom": "Almotriptan : 12,5 mg : comprimé",
+  "Caractéristique ": "Antimigraineux",
+  "Ordonnance ": true
+},{
+  "Nom": "Smecta : 3 g : poudre",
+  "Caractéristique ": "Antidiarrhéique",
+  "Ordonnance ": false
+}]

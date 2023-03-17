@@ -1,0 +1,1962 @@
+[{
+  "name": "ANTOINE & CHARMEUX",
+  "adress": "7 Rue Coq Heron",
+  "city": "Paris",
+  "tel": "0134175632",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.86,
+    "lon": 2.28
+  },
+  "garde": true
+},{
+  "name": "KARUJE SAS",
+  "adress": "6 rue du CHevalier de Saint George ",
+  "city": "Paris",
+  "tel": "0134175633",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.868,
+    "lon": 2.324
+  },
+  "garde": false
+},{
+  "name": "SELURL PHARMACIE DU PALAIS ROYAL",
+  "adress": "164 rue Saint Honore",
+  "city": "Paris",
+  "tel": "0134175634",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.862,
+    "lon": 2.339
+  },
+  "garde": false
+},{
+  "name": "EURL PHARMACIE OSTROM",
+  "adress": "62 boulevard de Magenta",
+  "city": "Paris",
+  "tel": "0134175635",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.873,
+    "lon": 2.358
+  },
+  "garde": false
+},{
+  "name": "LA PARA DE STRASBOURG",
+  "adress": "1 boulevard de Strasbourg",
+  "city": "Paris",
+  "tel": "0134175636",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.869,
+    "lon": 2.354
+  },
+  "garde": false
+},{
+  "name": "LA PHARMACIE DES PASSAGES",
+  "adress": "80 rue du faubourg Saint Denis",
+  "city": "Paris",
+  "tel": "0134175637",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.873,
+    "lon": 2.354
+  },
+  "garde": false
+},{
+  "name": "GREEN LEAF FRANCE",
+  "adress": "122 rue Amelot",
+  "city": "Paris",
+  "tel": "0134175638",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.864,
+    "lon": 2.367
+  },
+  "garde": false
+},{
+  "name": "LA PHARMACIE GONCOURT",
+  "adress": "146 avenue Parmentier",
+  "city": "Paris",
+  "tel": "0134175639",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.864,
+    "lon": 2.375
+  },
+  "garde": false
+},{
+  "name": "INNOVBIOTECH LTD",
+  "adress": "8 rue Abel",
+  "city": "Paris",
+  "tel": "0134175640",
+  "horaire": {
+    "lundi": {
+      "ouverture": "00:00",
+      "fermeture": "24:00"
+    },
+    "mardi": {
+      "ouverture": "00:00",
+      "fermeture": "24:00"
+    },
+    "mercredi": {
+      "ouverture": "00:00",
+      "fermeture": "24:00"
+    },
+    "jeudi": {
+      "ouverture": "00:00",
+      "fermeture": "24:00"
+    },
+    "vendredi": {
+      "ouverture": "00:00",
+      "fermeture": "24:00"
+    },
+    "samedi": {
+      "ouverture": "00:00",
+      "fermeture": "24:00"
+    },
+    "dimanche": {
+      "ouverture": "00:00",
+      "fermeture": "24:00"
+    }
+  },
+  "coordonées": {
+    "lat": 48.846,
+    "lon": 2.375
+  },
+  "garde": true
+},{
+  "name": "LA PHARMACIE CENTRALE PICPUS",
+  "adress": "45 avenue de Saint Mande",
+  "city": "Paris",
+  "tel": "0134175642",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.845,
+    "lon": 2.402
+  },
+  "garde": false
+},{
+  "name": "LA PHARMACIE DU TRAIN BLEU",
+  "adress": "21 boulevard Diderot",
+  "city": "Paris",
+  "tel": "0134175690",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.845,
+    "lon": 2.372
+  },
+  "garde": false
+},{
+  "name": "FVGH",
+  "adress": "6 rue de Tolbiac ",
+  "city": "Paris",
+  "tel": "0134175698",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.830,
+    "lon": 2.376
+  },
+  "garde": false
+},
+{
+  "name": "NEXTYPHARM",
+  "adress": "13 villa Robert Doisneau",
+  "city": "Paris",
+  "tel": "0134175612",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.826,
+    "lon": 2.370
+  },
+  "garde": false
+},{
+  "name": "PHARMACIE PLACE DENFERT-ROCHEREAU",
+  "adress": "97 avenue Denfert Rochereau",
+  "city": "Paris",
+  "tel": "0134175613",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.33834,
+    "lon": 2.3
+  },
+  "garde": false
+},{
+  "name": "PHARMACIE PLAISANCE",
+  "adress": "203 rue d'alesia",
+  "city": "Paris",
+  "tel": "0134175614",
+  "horaire": {
+    "lundi": {
+      "ouverture": "00:00",
+      "fermeture": "24:00"
+    },
+    "mardi": {
+      "ouverture": "00:00",
+      "fermeture": "24:00"
+    },
+    "mercredi": {
+      "ouverture": "00:00",
+      "fermeture": "24:00"
+    },
+    "jeudi": {
+      "ouverture": "00:00",
+      "fermeture": "24:00"
+    },
+    "vendredi": {
+      "ouverture": "00:00",
+      "fermeture": "24:00"
+    },
+    "samedi": {
+      "ouverture": "00:00",
+      "fermeture": "24:00"
+    },
+    "dimanche": {
+      "ouverture": "00:00",
+      "fermeture": "24:00"
+    }
+  },
+  "coordonées": {
+    "lat": 48.831,
+    "lon": 2.314
+  },
+  "garde": true
+},{
+  "name": "PHARMACIE RASPAIL 14EME",
+  "adress": "282 boulevard Raspail",
+  "city": "Paris",
+  "tel": "0134175623",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.835,
+    "lon": 2.331
+  },
+  "garde": false
+},{
+  "name": "GRANDE PHARMACIE CONVENTION",
+  "adress": "242 rue de la convention",
+  "city": "Paris",
+  "tel": "0134175624",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.835,
+    "lon": 2.301
+  },
+  "garde": false
+},{
+  "name": "GRANDE PHARMACIE DE L ARRIVEE",
+  "adress": "6 rue de l'arrivee",
+  "city": "Paris",
+  "tel": "0134175625",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.843,
+    "lon": 2.322
+  },
+  "garde": false
+},{
+  "name": "GRANDE PHARMACIE DU 15 EME",
+  "adress": "119 rue Saint Charles",
+  "city": "Paris",
+  "tel": "0134175626",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.843,
+    "lon": 2.322
+  },
+  "garde": false
+},{
+  "name": "PHARMACIE DU MARCHE PASSY",
+  "adress": "2 rue de Passy",
+  "city": "Paris",
+  "tel": "0134175627",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.858,
+    "lon": 2.284
+  },
+  "garde": false
+},{
+  "name": "PHARMACIE DU RANELAGH",
+  "adress": "85 rue de Ranalagh",
+  "city": "Paris",
+  "tel": "0134175628",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.853,
+    "lon": 2.280
+  },
+  "garde": false
+},{
+  "name": "PHARMACIE DU TROCADERO",
+  "adress": "106 avenue de Kleber",
+  "city": "Paris",
+  "tel": "0134175629",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.865,
+    "lon": 2.288
+  },
+  "garde": false
+},{
+  "name": "PHARMACIE DES PLANTES",
+  "adress": "111 rue de courcelles",
+  "city": "Paris",
+  "tel": "0134175667",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.882,
+    "lon": 2.299
+  },
+  "garde": false
+},{
+  "name": "PHARMACIE DU DOCTEUR LEVY",
+  "adress": "8 rue cardinet ",
+  "city": "Paris",
+  "tel": "0134175546",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.887,
+    "lon": 2.314
+  },
+  "garde": false
+},{
+  "name": "PHARMACIE FROMENTIN",
+  "adress": "182 avenue de Clichy",
+  "city": "Paris",
+  "tel": "0134175667",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.892,
+    "lon": 2.316
+  },
+  "garde": false
+},{
+  "name": "PHARMACIE DES BUTTES MONTMARTRE",
+  "adress": "30 rue Lepic",
+  "city": "Paris",
+  "tel": "0134175678",
+  "horaire": {
+    "lundi": {
+      "ouverture": "00:00",
+      "fermeture": "24:00"
+    },
+    "mardi": {
+      "ouverture": "00:00",
+      "fermeture": "24:00"
+    },
+    "mercredi": {
+      "ouverture": "00:00",
+      "fermeture": "24:00"
+    },
+    "jeudi": {
+      "ouverture": "00:00",
+      "fermeture": "24:00"
+    },
+    "vendredi": {
+      "ouverture": "00:00",
+      "fermeture": "24:00"
+    },
+    "samedi": {
+      "ouverture": "00:00",
+      "fermeture": "24:00"
+    },
+    "dimanche": {
+      "ouverture": "00:00",
+      "fermeture": "24:00"
+    }
+  },
+  "coordonées": {
+    "lat": 48.885,
+    "lon": 2.334
+  },
+  "garde": true
+},{
+  "name": "PHARMACIE DES GALERIES DUFAYEL SELARL DE PHARMACIENS AU CAPITAL DE 70 000 EUROS",
+  "adress": "29 rue de Clignancourt",
+  "city": "Paris",
+  "tel": "0134175679",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.885,
+    "lon": 2.347
+  },
+  "garde": false
+},{
+  "name": "PHARMACIE DE LA GEODE",
+  "adress": "118 avenue de Flandre",
+  "city": "Paris",
+  "tel": "0134175645",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.892,
+    "lon": 2.379
+  },
+  "garde": false
+},{
+  "name": "PHARMACIE DE LA MAIRIE",
+  "adress": "1 rue Armand Carrel",
+  "city": "Paris",
+  "tel": "0134175674",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.882,
+    "lon": 2.381
+  },
+  "garde": false
+},{
+  "name": "PHARMACIE DE LA PLACE COCHET",
+  "adress": "2 avenue de la porte Chaumont",
+  "city": "Paris",
+  "tel": "0134175678",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.886,
+    "lon": 2.396
+  },
+  "garde": false
+},{
+  "name": "SELASU PHARMACIE MONTORGUEIL",
+  "adress": "67 rue Montorgueil",
+  "city": "Paris",
+  "tel": "0134195636",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.866,
+    "lon": 2.347
+  },
+  "garde": false
+},{
+  "name": "PHARMACIE ANGERMULLER",
+  "adress": "2 place Martin Nadaud",
+  "city": "Paris",
+  "tel": "0167175632",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.865,
+    "lon": 2.395
+  },
+  "garde": false
+},{
+  "name": "PHARMACIE ATTUIL",
+  "adress": "85 rue de Menilmontant",
+  "city": "Paris",
+  "tel": "0134245632",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.868,
+    "lon": 2.390
+  },
+  "garde": false
+},{
+  "name": "PHARMACIE AU GAGNE PETIT",
+  "adress": "6 rue de Belleville",
+  "city": "Paris",
+  "tel": "0139575632",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.872,
+    "lon": 2.377
+  },
+  "garde": false
+},{
+  "name": "PHARMACIE MEYER POINSOT",
+  "adress": "37 rue de Turenne",
+  "city": "Paris",
+  "tel": "0134895632",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.856,
+    "lon": 2.364
+  },
+  "garde": false
+},{
+  "name": "SELARL PHARMACIE BUENAVIDA",
+  "adress": "100 boulevard de Sebastopol",
+  "city": "Paris",
+  "tel": "0137475632",
+  "horaire": {
+    "lundi": {
+      "ouverture": "00:00",
+      "fermeture": "24:00"
+    },
+    "mardi": {
+      "ouverture": "00:00",
+      "fermeture": "24:00"
+    },
+    "mercredi": {
+      "ouverture": "00:00",
+      "fermeture": "24:00"
+    },
+    "jeudi": {
+      "ouverture": "00:00",
+      "fermeture": "24:00"
+    },
+    "vendredi": {
+      "ouverture": "00:00",
+      "fermeture": "24:00"
+    },
+    "samedi": {
+      "ouverture": "00:00",
+      "fermeture": "24:00"
+    },
+    "dimanche": {
+      "ouverture": "00:00",
+      "fermeture": "24:00"
+    }
+  },
+  "coordonées": {
+    "lat": 48.867,
+    "lon": 2.353
+  },
+  "garde": true
+},{
+  "name": "PHARMACIE PLACE DE LA BASTILLE",
+  "adress": "3 boulevard Beaumarchais ",
+  "city": "Paris",
+  "tel": "0167175632",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.854,
+    "lon": 2.368
+  },
+  "garde": false
+},{
+  "name": "PHARMACIE SAINT PAUL",
+  "adress": "71 rue Saint Antoine",
+  "city": "Paris",
+  "tel": "0134925632",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.854,
+    "lon": 2.363
+  },
+  "garde": false
+},{
+  "name": "PHARMACIE LAXAN",
+  "adress": "96 rue Monge",
+  "city": "Paris",
+  "tel": "0139175632",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.840,
+    "lon": 2.351
+  },
+  "garde": false
+},{
+  "name": "PHARMACIE SAINT GERMAIN",
+  "adress": "25 boulevard Saint Germain",
+  "city": "Paris",
+  "tel": "0131175632",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.849,
+    "lon": 2.352
+  },
+  "garde": false
+},{
+  "name": "PHARMACIE SAINT JACQUES",
+  "adress": "243 rue de Saint Jacques",
+  "city": "Paris",
+  "tel": "0131275632",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.842,
+    "lon": 2.341
+  },
+  "garde": false
+},{
+  "name": "PHARMACIE MAAREK",
+  "adress": "56 rue du Cherche midi",
+  "city": "Paris",
+  "tel": "0114175632",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.848,
+    "lon": 2.325
+  },
+  "garde": false
+},{
+  "name": "PHARMACIE MABILLON-SAINT-GERMAIN",
+  "adress": "8 rue du Four",
+  "city": "Paris",
+  "tel": "0171175632",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.852,
+    "lon": 2.334
+  },
+  "garde": false
+},{
+  "name": "PHARMACIE D'ORSAY",
+  "adress": "6 rue de Bellechasse",
+  "city": "Paris",
+  "tel": "0127175632",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.859,
+    "lon": 2.324
+  },
+  "garde": false
+},{
+  "name": "PHARMACIE DU 7EME",
+  "adress": "18 avenue de la Motte Picquet",
+  "city": "Paris",
+  "tel": "0131775632",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.856,
+    "lon": 2.308
+  },
+  "garde": false
+},{
+  "name": "PHARMACIE ML",
+  "adress": "54 rue de la Bienfaisance",
+  "city": "Paris",
+  "tel": "0131075632",
+  "horaire": {
+    "lundi": {
+      "ouverture": "00:00",
+      "fermeture": "24:00"
+    },
+    "mardi": {
+      "ouverture": "00:00",
+      "fermeture": "24:00"
+    },
+    "mercredi": {
+      "ouverture": "00:00",
+      "fermeture": "24:00"
+    },
+    "jeudi": {
+      "ouverture": "00:00",
+      "fermeture": "24:00"
+    },
+    "vendredi": {
+      "ouverture": "00:00",
+      "fermeture": "24:00"
+    },
+    "samedi": {
+      "ouverture": "00:00",
+      "fermeture": "24:00"
+    },
+    "dimanche": {
+      "ouverture": "00:00",
+      "fermeture": "24:00"
+    }
+  },
+  "coordonées": {
+    "lat": 48.876,
+    "lon": 2.313
+  },
+  "garde": true
+},{
+  "name": "PHARMACIE MODERNE",
+  "adress": "80 rue du Rocher",
+  "city": "Paris",
+  "tel": "0130375632",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.879,
+    "lon": 2.317
+  },
+  "garde": false
+},{
+  "name": "PHARMACIE LARIBOISIERE",
+  "adress": "5 boulevard de Rochechouart",
+  "city": "Paris",
+  "tel": "0104175632",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.883,
+    "lon": 2.351
+  },
+  "garde": false
+},{
+  "name": "PHARMACIE LORETTE",
+  "adress": "38 rue notre dame de Lorette",
+  "city": "Paris",
+  "tel": "0130875632",
+  "horaire": {
+    "lundi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mardi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "mercredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "jeudi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "vendredi": {
+      "ouverture": "08:00",
+      "fermeture": "18:00"
+    },
+    "samedi": {
+      "ouverture": "08:00",
+      "fermeture": "12:00"
+    },
+    "dimanche": {
+      "ouverture": "fermé",
+      "fermeture": "fermé"
+    }
+  },
+  "coordonées": {
+    "lat": 48.878,
+    "lon": 2.336
+  },
+  "garde": false
+}]
