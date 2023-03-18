@@ -1,12 +1,17 @@
 var express = require("express");
 var router = express.Router();
-
+require('dotenv').config();
 require("../models/connection");
 const User = require("../models/users");
 const { checkBody } = require("../modules/checkBody");
 const bcrypt = require("bcrypt");
 const uid2 = require("uid2");
-const cloudinary = require("cloudinary");
+const cloudinary = require("cloudinary").v2;
+cloudinary.config({
+  cloud_name: process.env.CLOUD_NAME,
+  api_key: process.env.API_KEY,
+  api_secret: process.env.API_SECRET
+});
 
 /* GET users listing. 
 router.get('/', function(req, res, next) {
