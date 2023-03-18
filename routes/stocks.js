@@ -8,8 +8,8 @@ const Pharmacy = require('../models/pharmacies');
 const Medicament = require('../models/medicaments');
 const { generateStock } = require('../modules/generateStock');
 
-/*générer un stock aléatoire
-router.get('/generate-stock', async (req, res) => {
+
+{/*router.get('/generate-stock', async (req, res) => {
   try {
     await generateStock();
     res.send('Stock généré avec succès !');
@@ -17,7 +17,7 @@ router.get('/generate-stock', async (req, res) => {
     console.error('Erreur lors de la génération de stock :', error);
     res.status(500).send('Une erreur est survenue lors de la génération de stock.');
   }
-});*/
+}); */}
 
 //ajout stock dans une pharmacie
 router.post('/:pharmacyId/:medicamentId/:quantity', async (req, res) => {
