@@ -5,10 +5,6 @@ require('../models/connection');
 
 const User = require('../models/users');
 
-
-
-
-const User = require('../models/users');
 const cloudinary = require("cloudinary").v2;
 cloudinary.config({
   cloud_name: process.env.CLOUD_NAME,
