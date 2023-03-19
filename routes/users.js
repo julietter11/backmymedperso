@@ -6,12 +6,7 @@ const User = require("../models/users");
 const { checkBody } = require("../modules/checkBody");
 const bcrypt = require("bcrypt");
 const uid2 = require("uid2");
-const cloudinary = require("cloudinary").v2;
-cloudinary.config({
-  cloud_name: process.env.CLOUD_NAME,
-  api_key: process.env.API_KEY,
-  api_secret: process.env.API_SECRET
-});
+
 
 /* GET users listing. 
 router.get('/', function(req, res, next) {
@@ -206,34 +201,6 @@ router.put("/:token/updateEmail", async (req, res) => {
   }
 });
 
-//liste des ordonnances users
-router.get("/upload/:token", (req, res) => {
-  const { token } = req.params;
 
-  User.findOne({ token: token }).then((data) => {
-    res.json({ result: true, ordonnances: data.ordonnances });
-  });
-});
-
-//supprimer photo utilisateur dans la BDD et cloudinary
-router.put("/deletePhoto/:token", (req, res) => {
-  const { token } = req.params;
-  const { url } = req.body;
-
-  User.findOne({ token: token }).then((user) => {
-    if (user === null) {
-      res.json({ result: false, error: "Utilisateur non trouvé" });
-      return;
-    }
-
-    if (user.ordonnances.includes(url)) {
-      User.updateOne({ _id: user._id }, { $pull: { ordonnances: url } }).then(
-        () => {
-          res.json({ result: true, message: "Ordonnance supprimée" });
-        }
-      );
-    }
-  });
-});
 
 module.exports = router;
