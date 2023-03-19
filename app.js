@@ -11,6 +11,7 @@ var stocksRouter = require('./routes/stocks');
 var pharmaciesRouter = require('./routes/pharmacies');
 var medicamentsRouter = require('./routes/medicaments');
 var booksRouter = require('./routes/books');
+var photoRouter = require('./routes/photo');
 
 var app = express();
 
@@ -30,5 +31,6 @@ app.use('/stocks', stocksRouter);
 app.use('/pharmacies', pharmaciesRouter);
 app.use('/medicaments', medicamentsRouter);
 app.use('/books', booksRouter);
+app.use('/photo', photoRouter);
 
 module.exports = app;
