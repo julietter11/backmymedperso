@@ -17,7 +17,7 @@ const fs = require("fs");
 //route pour poster les photos dans le Cloudinary
 router.post("/upload", async (req, res) => {
   console.log("req", req);
-  const photoPath = `/tmp/${uniqid()}.jpg`;
+  const photoPath = `./tmp/${uniqid()}.jpg`;
   const resultMove = await req.files.photoFromFront.mv(photoPath);
 
   if (!resultMove) {
