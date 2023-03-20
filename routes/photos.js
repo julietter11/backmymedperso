@@ -23,7 +23,8 @@ router.post('/upload', async (req, res) => {
 
 
 
-//essai route pour poster enregistrer url chez user
+//route pour poster enregistrer url ordonnances pour chaque user
+
 router.post("/upload/:token", async (req, res) => {
     //console.log("req", req);
     const photoPath = `/tmp/${uniqid()}.jpg`;
@@ -57,7 +58,7 @@ router.get("/upload/:token", (req, res) => {
     });
   });
   
-  //supprimer photo utilisateur dans la BDD et cloudinary
+  //supprimer photo utilisateur dans la BDD 
   router.put("/deletePhoto/:token", (req, res) => {
     const { token } = req.params;
     const { url } = req.body;
