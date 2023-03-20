@@ -3,14 +3,11 @@ var router = express.Router();
 
 require('../models/connection');
 
-const User = require('../models/users');
+
+
 
 const cloudinary = require("cloudinary").v2;
-cloudinary.config({
-  cloud_name: process.env.CLOUD_NAME,
-  api_key: process.env.API_KEY,
-  api_secret: process.env.API_SECRET
-});
+
 const uniqid = require("uniqid");
 const fs = require("fs");
 
@@ -27,9 +24,9 @@ router.post("/upload", async (req, res) => {
     res.json({ result: false, error: resultMove });
   }
   fs.unlinkSync(photoPath);
-});
+}); 
 
-//essai route pour poster enregistrer url chez user
+{/*essai route pour poster enregistrer url chez user
 router.post("/upload/:token", async (req, res) => {
   //console.log("req", req);
   const photoPath = `/tmp/${uniqid()}.jpg`;
@@ -49,7 +46,7 @@ router.post("/upload/:token", async (req, res) => {
   } else {
     res.json({ result: false, error: resultMove });
   }
-  fs.unlinkSync(photoPath);
+fs.unlinkSync(photoPath);
 });
 
 
@@ -86,6 +83,6 @@ router.get("/upload/:token", (req, res) => {
       }
     });
   });
-
+*/}
 
   module.exports = router;
